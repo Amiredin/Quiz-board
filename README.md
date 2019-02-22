@@ -16,4 +16,4 @@ Amir Edin
 
 ## Technolgies used 
 * HTML
-
+* CSS
