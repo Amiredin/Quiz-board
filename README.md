@@ -7,3 +7,4 @@ Amir Edin
 * pc
 * web browser
 ## BDD
+| Behavior | Example Layout |
