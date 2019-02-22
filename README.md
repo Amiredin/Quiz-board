@@ -18,3 +18,8 @@ Amir Edin
 * HTML
 * CSS
 * Java script 
+* Jquery
+## contact 
+* Email . amiredin@yahoo.com
+* contact .0757853395
+## Licence
