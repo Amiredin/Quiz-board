@@ -15,4 +15,5 @@ Amir Edin
 | 4.Enables the user to get the result after submiting the answer |         | 
 
 ## Technolgies used 
+* HTML
 
