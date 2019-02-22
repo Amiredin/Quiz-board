@@ -13,3 +13,6 @@ Amir Edin
 | 2.Enables the user to select the answers |            | 
 | 3.Enables the user to submit the result |             |
 | 4.Enables the user to get the result after submiting the answer |         | 
+
+## Technolgies used 
+
