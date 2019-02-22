@@ -11,3 +11,4 @@ Amir Edin
 | --- | --- |
 | 1.Enables the user to see the the multi choice |               |
 | 2.Enables the user to select the answers |            | 
+| 3.Enables the user to submit the result |             |
