@@ -9,3 +9,4 @@ Amir Edin
 ## BDD
 | Behavior | Example Layout |
 | --- | --- |
+| 1.enables the user to see the the multi choice |
