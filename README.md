@@ -4,3 +4,5 @@ This application is used to answer some java script question and then displays t
 ## Author 
 Amir Edin
 ## set up requirment
+* pc
+* web browser
