@@ -6,6 +6,16 @@ $(document).ready(function(){
     var q3 =parseInt($("input:radio[name=3]:checked").val());
     var q4 =parseInt($("input:radio[name=4]:checked").val());
     var q5 =parseInt($("input:radio[name=5]:checked").val());
-    $("#display").text(q1+q2+q3+q4+q5);
+    var marks =(q1+q2+q3+q4+q5);
+    $("#display").text(marks);
+
+
+    if(marks>=80) {
+      alert("Execllent")
+    } else if(marks>=50) {
+      alert("poor")
+    } else {
+      alert ("poor work redo the quiz")
+    };
   });
 });
